@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "PG-13",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "Megamind",
+                    ReleaseDate = DateTime.Parse("2010-6-11"),
+                    Genre = "Animation",
+                    Rating = "PG",
+                    Price = 10.99M
+                },
+                new Movie
+                {
+                    Title = "Pirates of the Caribbean",
+                    ReleaseDate = DateTime.Parse("2003-11-15"),
+                    Genre = "Adventure",
+                    Rating = "PG-13",
+                    Price = 6.99M
+                },
+                new Movie
+                {
+                    Title = "U-571",
+                    ReleaseDate = DateTime.Parse("2000-12-20"),
+                    Genre = "War",
+                    Rating = "PG-13",
+                    Price = 7.99M
                 }
             );
             context.SaveChanges();

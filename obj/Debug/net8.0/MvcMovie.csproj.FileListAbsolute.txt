@@ -300,3 +300,4 @@ C:\Users\adams\OneDrive\Desktop\Homework\CSE 325\MvcMovie\bin\Debug\net8.0\runti
 C:\Users\adams\OneDrive\Desktop\Homework\CSE 325\MvcMovie\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\adams\OneDrive\Desktop\Homework\CSE 325\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\adams\OneDrive\Desktop\Homework\CSE 325\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
+C:\Users\adams\OneDrive\Desktop\Homework\CSE 325\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
